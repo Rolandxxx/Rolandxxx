@@ -11,7 +11,7 @@ like a menue for everything.
 You can define how many tabs you want (max 90) and how many buttons per tab (max 48). You can use the integrated color
 or choose your own for every button. You can define a preview picture for every button.
 
-The picture 1 to 5 might give you an idea how this is working.
+The pictures 1 to 5 might give you an idea how this is working.
 
 Download in a new directory, unzip and enjoy
 
