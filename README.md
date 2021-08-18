@@ -15,7 +15,7 @@ The picture 1 to 5 might give you an idea how this is working.
 
 Download in a new directory, unzip and enjoy
 
-Any questions, suggestions, ... ? Don't hesitate to send a mail.
+Tell me if you need(!) an english version. Any other questions, suggestions, ... ? Don't hesitate to send a mail.
 
 CU
 Roland
