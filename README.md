@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rolandxxx
 - 👀 I’m interested in codeing with Lazarus / Free Pascal
-- 🌱 I’m currently learning to get better in this (and to improve my english)
-- 💞️ I’m looking to collaborate on connecting tradingplatforms (e.g. MetaTrader, NinjaTrader) to databases via Lazarus
+- 🌱 I’m currently learning to get better with this (and to improve my english)
+- 💞️ I’m looking to collaborate on everything in/on/with Lazarus
 - 📫 How to reach me via Mail: Rolandxxx "at" rl-syz.de
 
 <!---
