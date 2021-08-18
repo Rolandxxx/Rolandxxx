@@ -9,7 +9,7 @@ The zip-file which you can download here contains a small tool for your desktop:
 used to clear your desktop, sort multiple files / programs / links and have them always ready for use / call. A little bit
 like a menue for everything.
 You can define how many tabs you want (max 90) and how many buttons per tab (max 48). You can use the integrated color
-or choos your own for every button. You can define a preview picture for every button.
+or choose your own for every button. You can define a preview picture for every button.
 
 The picture 1 to 5 might give you an idea how this is working.
 
