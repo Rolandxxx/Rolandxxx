@@ -8,11 +8,11 @@
 The zip-files which you can download here contain small tools for your desktop: 
 Download in a new directory and unzip. If there is a .xxx file then rename the extension back to .exe. In the
 text-file you can find some explanation about the tool and what it is good for (so far only in German. Tell 
-me if you need(!) an english version.) 
+me if you need(!) an english version. And: Windows only. So far tested with Windows8.1 and Windows10)
 
 Any other questions, suggestions, ... ? You want the sourcecode? Don't hesitate to send a mail. 
 
-CU
+HTH
 Roland
 
 <!---
