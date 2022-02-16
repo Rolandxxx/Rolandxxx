@@ -10,7 +10,7 @@ Download in a new directory and unzip. If there is a .xxx file then rename the e
 text-file you can find some explanation about the tool and what it is good for (so far only in German. Tell 
 me if you need(!) an english version.) 
 
-Any other questions, suggestions, ... ? Don't hesitate to send a mail.
+Any other questions, suggestions, ... ? You want the sourcecode? Don't hesitate to send a mail. 
 
 CU
 Roland
